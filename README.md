@@ -1,10 +1,10 @@
-# Abiy Getahun Aragaw - Portfolio
+# Abiy Aragaw - Portfolio
 
-A modern, interactive portfolio website showcasing my journey as an Information Science student and Full Stack Developer. Built with cutting-edge technologies and featuring smooth animations, responsive design, and comprehensive project showcases.
+A modern, interactive portfolio website showcasing my journey. Built with cutting-edge technologies and featuring smooth animations, responsive design, and comprehensive project showcases.
 
 ## 👨‍💻 About Me
 
-I'm Abiy Getahun Aragaw, a second-year Information Science student at Addis Ababa University with a passion for solving real-world problems using technology. My portfolio showcases my academic journey, technical skills, and innovative projects in system development and full-stack applications.
+I'm Abiy Aragaw. My portfolio showcases my academic journey, technical skills, and innovative projects in system development and full-stack applications.
 
 **Tagline:** Building practical and scalable digital solutions through curiosity, creativity, and a strong passion for solving real-world problems using technology.
 
@@ -143,4 +143,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by Abiy Getahun Aragaw
+Built with ❤️ by Abiy Aragaw
